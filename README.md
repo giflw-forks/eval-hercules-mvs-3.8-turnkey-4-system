@@ -1,3 +1,10 @@
+# Easy way
+
+- Run `mainframe\mvs.bat` (Windows) or `mainframe/mvs` (*nix)
+- Connect to mainframe using browser on `http://localhost:8038` or using tn3270 client on `127.0.0.1:3270`
+
+
+
 # README - eval-hercules-mvs-3.8-turnkey-4-system
 
 ## 1. Introdução
